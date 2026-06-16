@@ -1,17 +1,16 @@
-# scan_shield_final
+# SafeRide 🚗
 
-A new Flutter project.
+A mobile app built with Flutter and Firebase that ensures passenger safety using OCR-based vehicle verification.
 
-## Getting Started
+## Features
+- OCR based number plate scanning
+- Firebase Firestore integration
+- [add any other features your app has]
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Firebase / Firestore
+- OCR
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+[add steps here if you know them]
