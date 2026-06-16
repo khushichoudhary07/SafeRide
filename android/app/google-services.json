@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689533181643",
+    "project_id": "scanshield-d73d6",
+    "storage_bucket": "scanshield-d73d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689533181643:android:037c1aedfd318b10b2c54e",
+        "android_client_info": {
+          "package_name": "com.example.scan_shield_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46fESTRXVifo8KmM0iAk0gh6PLILqT-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
