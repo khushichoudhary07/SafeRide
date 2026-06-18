@@ -30,7 +30,7 @@ Users can share their real-time location with trusted contacts during a journey,
 
 ### Emergency SOS
 
-The application provides a one-tap SOS feature that sends emergency messages containing the user's current location to predefined contacts.
+The application provides a one-tap SOS feature that sends emergency messages containing the user's current location to predefined contacts. SMS-enables to ensure working even in low internet-connectivity areas
 
 ### Safety Dashboard
 
