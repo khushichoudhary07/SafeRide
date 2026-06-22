@@ -6,7 +6,7 @@ By combining vehicle verification, community-driven reporting, live ride trackin
 
 ## Problem Statement
 
-Passengers often have limited information about the safety and reliability of public transport vehicles before boarding. Existing solutions generally focus on navigation or booking services and rarely provide safety-focused features such as vehicle verification, incident reporting, and emergency assistance.
+Passengers often have limited information about the safety and reliability of public transport vehicles [like auto rickshaws and cabs] before boarding. Existing solutions generally focus on navigation or booking services and rarely provide safety-focused features such as vehicle verification, incident reporting, and emergency assistance.
 
 SafeRide addresses this gap by providing a centralized platform where users can verify vehicles, review safety-related information, report concerns, and quickly reach out for help during emergencies.
 
